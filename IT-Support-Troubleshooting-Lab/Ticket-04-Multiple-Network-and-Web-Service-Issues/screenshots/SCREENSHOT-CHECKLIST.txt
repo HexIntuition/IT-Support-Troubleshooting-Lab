@@ -1,0 +1,10 @@
+Add the screenshots from this chat to this folder using these names:
+
+01-initial-web-and-dns-failure.png
+02-workstation-ip-address.png
+03-incorrect-default-route.png
+04-default-route-corrected.png
+05-connectivity-restored-web-still-fails.png
+06-web-service-on-8080.png
+07-application-verified-on-8080.png
+08-final-verification-port-80.png
