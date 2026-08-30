@@ -11,6 +11,7 @@ The scenarios in this repository are performed in **NetSim**, a browser-based ne
 | Ticket | Scenario | Status |
 |---|---|---|
 | [Ticket 01](Ticket-01-Incorrect-IP-Configuration/) | Workstation cannot reach its default gateway because of an incorrect static IP address | Resolved |
+| [Ticket 02](Ticket-02-DNS-Name-Resolution-Failure/) | Workstation can reach a server by IP but cannot resolve its hostname because of an incorrect DNS server | Resolved |
 
 ## Troubleshooting Approach
 
